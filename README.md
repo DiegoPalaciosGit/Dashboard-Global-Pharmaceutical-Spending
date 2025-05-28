@@ -30,7 +30,6 @@ These insights can be explored directly through the interactive visuals, includi
 
 ## Note
 
-As shown in the line chart GIF, some countries lack complete data for certain years between 1970 and 2014.  
-As a result, some charts or rankings may not display certain countries for specific decades.
+As shown in the line chart GIF, some countries lack complete data for the entire 1970–2014 period. Consequently, they may not appear in certain charts or decade-based rankings.
  
 ⚠️ In a future version of this project, we plan to address these data gaps by using linear regression models in Python to estimate missing values and reconstruct a more consistent time series for all countries.
