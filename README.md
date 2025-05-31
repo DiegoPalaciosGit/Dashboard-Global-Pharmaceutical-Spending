@@ -32,4 +32,5 @@ These insights can be explored directly through the interactive visuals, includi
 
 As shown in the line chart GIF, some countries lack complete data for the entire 1970–2014 period. Consequently, they may not appear in certain charts or decade-based rankings.
  
-⚠️ In a future version of this project, we plan to address these data gaps by using linear regression models in Python to estimate missing values and reconstruct a more consistent time series for all countries.
+⚠️ In a future version of this project, we plan to address these data gaps by using linear regression models in Python to estimate missing values and reconstruct a more consistent time series for all countries.  
+⬇️ You can download the dataset from [here](https://www.kaggle.com/datasets/tunguz/pharmaceutical-drug-spending-by-countries)
